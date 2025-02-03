@@ -1,6 +1,6 @@
 ﻿Day,Time,Woodpeckers,BlueJays
 1,morning,6,1
-1,afternoon,3,2
+1,afternoon,3,4
 2,morning,8,4
 2,afternoon,5,6
 3,morning,7,3
@@ -8,4 +8,4 @@
 4,morning,4,2
 4,afternoon,6,8
 5,morning,9,0
-5,afternoon,5,2
+5,afternoon,5,3
